@@ -3,19 +3,19 @@
     <channel>
         <title>Hseeltech - حصيلتك</title>
         <item>
-  <title>Version 1.0.71</title>
+  <title>Version 1.0.72</title>
   <description>تحديث جديد متوفر — يرجى التحديث للحصول على أحدث التحسينات</description>
-  <pubDate>Fri, 08 May 2026 08:24:48 +0000</pubDate>
+  <pubDate>Fri, 08 May 2026 09:16:24 +0000</pubDate>
   <enclosure url="https://apps.apple.com/app/id6740043498"
-             sparkle:version="1.0.71"
+             sparkle:version="1.0.72"
              sparkle:os="ios" />
         </item>
         <item>
-  <title>Version 1.0.71</title>
+  <title>Version 1.0.72</title>
   <description>تحديث جديد متوفر — يرجى التحديث للحصول على أحدث التحسينات</description>
-  <pubDate>Fri, 08 May 2026 08:24:48 +0000</pubDate>
+  <pubDate>Fri, 08 May 2026 09:16:24 +0000</pubDate>
   <enclosure url="https://play.google.com/store/apps/details?id=com.hseeltech.application"
-             sparkle:version="1.0.71"
+             sparkle:version="1.0.72"
              sparkle:os="android" />
         </item>
     </channel>
